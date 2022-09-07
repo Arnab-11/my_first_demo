@@ -1,1 +1,1 @@
-ptint("I am Arnab")
+print("I am Arnab")
